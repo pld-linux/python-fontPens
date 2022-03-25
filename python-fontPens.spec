@@ -8,7 +8,7 @@ Summary:	Classes implementing the pen protocol for manipulating glyphs
 Summary(pl.UTF-8):	Klasy implementujące protokół pióra do operacji na glifach
 Name:		python-fontPens
 Version:	0.2.4
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/fontpens/
